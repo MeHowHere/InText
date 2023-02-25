@@ -1,2 +1,3 @@
 # InText
-U can search in google with names
+
+#חיפוש קצר לפי שמות משתמשים
